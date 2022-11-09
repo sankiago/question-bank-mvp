@@ -1,0 +1,22 @@
+[
+    {
+        "question":"¿Cuántos litros de sangre tiene una persona adulta?",
+        "answer":"Tiene entre 4 y 6 litros"
+    },
+    {
+        "question":"¿Quién es el autor de la frase \"Pienso, luego existo\"?",
+        "answer":"René Descartes"
+    },
+    {
+        "question":"¿Cuál es el país más grande y el más pequeño del mundo?",
+        "answer":"Rusia y Vaticano"
+    },
+    {
+        "question":"¿Cuál es el libro más vendido en el mundo después de la Biblia?",
+        "answer":"Don Quijote de la Mancha"
+    },
+    {
+        "question":"¿Cuántos jugadores por equipo participan en un partido de voleibol?",
+        "answer":"6 jugadores"
+    }
+]
